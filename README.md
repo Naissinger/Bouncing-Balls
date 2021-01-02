@@ -1,2 +1,2 @@
 # Bouncing-Balls
- A simple project to learn how to deal with Canvas.
+Simple project to learn more about Canvas for Web.
